@@ -1,7 +1,7 @@
 # Player-Health-Bar
 Practicing SO Architecture and learning how to create Health Bar
 
-I combines these two tutorials
+I combined these two tutorials
 
 https://www.youtube.com/watch?v=BLfNP4Sc_iA&list=WL&index=35
 
